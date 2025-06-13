@@ -11,6 +11,8 @@ namespace git_cs01
         static void Main(string[] args)
         {
             Console.WriteLine("根岸由佳");
+            Console.WriteLine("根岸由佳");
+            Console.WriteLine("根岸由佳");
         }
     }
 }
